@@ -1,6 +1,6 @@
 # 👋 Welcome – I'm Kirsty, Data Scientist & Analyst
 
-## Technical Skills: Python, SQL, AWS, Snowflake, Tableau
+### Technical Skills: Python | SQL | AWS | Snowflake | Tableau
 
 ## 🎓 Education
 
