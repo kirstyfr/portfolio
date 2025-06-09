@@ -9,7 +9,7 @@
 
 ## 💼 Work Experience
 
-### Technical Lead | Data Science & Analytics  
+### Senior Data Analyst | Data Science & Analytics  
 **Norstella**
 - Led a team of 5 to deliver data-driven insights, mentoring junior developers in data analysis, visualisation, and ML techniques.
 - Applied NLP models (SpaCy, BERT, HuggingFace) to extract biomedical entities from 10k+ medical documents.
@@ -20,7 +20,7 @@
 - Collaborated with cloud, infrastructure, and data engineering teams on system migration using Linux and PowerShell.
 - Balanced full-time leadership role with MSc studies, graduating with Distinction.
 
-### Developer | Research & Development  
+### Data Analyst | Research & Development  
 **Norstella**
 - Built 150+ dashboards using SQL and Tableau; created a style guide to standardise delivery.
 - Automated PowerPoint reports using Python, LLMs, and Snowflake, saving hours of manual work.
